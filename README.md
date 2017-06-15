@@ -10,9 +10,13 @@ OR
 *Tampermonkey userscript*
 
 ### Chromium extension
-- test
-- test
+1. download the \*.js file
+2. visit url: *chrome://extensions*
+3. drag the \*.js file into the extensions tab
 
 ### Tampermonkey userscript
-1. test
-2. test
+1. download the extension:
+https://tampermonkey.net
+2. download the userscript:
+https://tampermonkey.net
+3. activate the userscript
