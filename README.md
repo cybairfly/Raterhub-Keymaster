@@ -19,4 +19,4 @@ OR
 https://tampermonkey.net
 2. download the userscript:
 https://tampermonkey.net
-3. activate the userscript
+3. activate the userscript in Tampermonkey extension
